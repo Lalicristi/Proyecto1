@@ -1,0 +1,128 @@
+/* Estilos Generales*/
+* {
+   margin: 0;
+   padding: 0;
+   background-color:#e0dbd7;
+   font-family: Montserrat;	
+}
+
+/* Header todas las paginas*/
+ h1 {
+font-size: 60px;
+font-weight:  900;
+color: white;
+letter-spacing: 2px;
+text-align: center;
+
+ }
+
+nav {
+   text-align: center;
+}
+h2{
+    
+    font-size: 20px;
+    font-weight: 400;
+    color:#91837d;
+    word-spacing: 1px;
+
+}
+
+header nav ul li {
+
+    display: inline-block;
+    padding: 7px;
+    margin-left: 5px;
+    font-style: italic;
+    color: #392e27;
+
+}
+
+/* Main index*/
+
+main nav ul li {
+
+    display: inline-block;
+    padding: 7px;
+    margin-left: 5px;
+    background-color: #c5b0a6;
+    border-radius: 5px;
+   }
+
+   
+
+
+
+.main_index{
+
+	text-align: center;
+}
+
+
+.img_index {
+
+	margin: 0px;
+	padding: 0px;
+
+}
+.img_bio {
+
+    margin: 0px;
+	padding: 0px;
+	text-align: left;
+
+}
+.text_bio {
+
+	text-align: justify;
+    padding-left: 500px;
+    padding-right: 50px;
+}
+
+
+/* footer todas la páginas*/
+footer{
+    text-align:center ; 
+
+}
+
+footer nav ul{
+    
+  display: block;    
+  padding: 7px;
+  margin-left: 5px;
+
+}
+ footer p {
+  text-align: right;
+
+ }
+ /* MAIN SECCIONES*/
+
+ .subtitulos{
+     text-align: center;
+     font-size: 20px;
+     font-weight: bold;
+ }    
+ .lista-shows{
+     text-align: center;
+     font-size: 10px;
+     font-weight: 200;
+     color:#392e27;
+     word-spacing: 1px;
+ }
+
+ /* Seccion Musica*/
+
+ table {
+      height: 50%;
+
+ }
+
+
+
+
+
+
+
+
